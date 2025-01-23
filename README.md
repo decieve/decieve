@@ -1,4 +1,4 @@
-- na vida temos certezas, uma delas é que estamos vivos, e a outra é que qualquer mapa do jogo do macaco com espaço na terra é viavel fazer um macaco boomerang 3-0-0
+- na vida temos certezas, uma delas é que estamos vivos e uma outra é que qualquer mapa do jogo do macaco com espaço na terra é viavel fazer um macaco boomerang 3-0-0
 
  ![Macaco Boomerang](https://static.wikia.nocookie.net/b__/images/6/61/300-BoomerangMonkey.png/revision/latest?cb=20190522025342&path-prefix=bloons)
 <!---
